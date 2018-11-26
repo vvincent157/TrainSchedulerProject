@@ -1,1 +1,2 @@
 # TrainSchedulerProject
+This is a table that represents the train schedule for CTA Laselle. The train schedule will display and add train time as they are added to the schedule as well as upload them to the firebase database.
